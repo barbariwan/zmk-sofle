@@ -54,7 +54,7 @@
 &kp C_MUTE    &kp LEFT_ALT  &kp LEFT_CONTROL  &mo 4   &mo 3   &kp SPACE    &kp ENTER        &kp ENTER  &mo 1   &mo 2      &none    &none
             >;
 
-            sensor-bindings = <&scroll_encoder>;
+            sensor-bindings = <&inc_dec_kp LC(RIGHT_ARROW) LC(LEFT_ARROW)>;
             display-name = "LAYER0";
         };
 
