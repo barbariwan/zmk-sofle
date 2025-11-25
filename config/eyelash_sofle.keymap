@@ -60,11 +60,11 @@
 
         layer_1 {
             bindings = <
-&kp GRAVE  &trans  &trans  &trans  &trans  &trans    &trans  &trans          &trans          &trans           &trans  &trans    &trans
-&kp BSLH   &trans  &trans  &trans  &trans  &trans    &trans  &trans          &kp UP_ARROW    &trans           &trans  &kp LBKT  &kp RBKT
-&trans     &trans  &trans  &trans  &trans  &trans    &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &trans    &trans
-&trans     &trans  &trans  &trans  &trans  &trans    &trans  &kp MINUS       &kp PLUS        &trans           &trans  &trans    &trans
-&trans     &trans  &trans  &trans  &trans  &trans    &trans  &trans          &trans          &trans           &trans  &trans
+&kp GRAVE  &trans  &trans  &trans  &trans  &trans    &trans  &trans          &trans          &trans           &trans    &trans    &trans
+&trans     &trans  &trans  &trans  &trans  &trans    &trans  &trans          &kp UP_ARROW    &trans           &kp LBKT  &kp RBKT  &kp BSLH
+&trans     &trans  &trans  &trans  &trans  &trans    &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans    &trans    &trans
+&trans     &trans  &trans  &trans  &trans  &trans    &trans  &kp MINUS       &kp PLUS        &trans           &trans    &trans    &trans
+&trans     &trans  &trans  &trans  &trans  &trans    &trans  &trans          &trans          &trans           &trans    &trans
             >;
 
             display-name = "Layer1";
