@@ -63,7 +63,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - Layer1
   - Layer2
-  - {t: '$$mdi:transfer$$', type: trans}
+  - F13
   - {t: '$$mdi:transfer$$', type: trans}
   Layer1:
   - {t: '`', s: '~'}
